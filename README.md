@@ -1,1 +1,1 @@
-# projectX
+# This is directory projectX.
